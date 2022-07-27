@@ -34,7 +34,9 @@ Tip: Type ! to search projects
 Type ? for help and tips 
 Tip: Type @ to search teams 
 Type ? for help and tips 
-Tip: Type @ to search people and organizations 
+Tip: Type @ to search people a
+	Tip: Type @ to search teams 
+Type ? for help and tips nd organizations 
 Type ? for help and tips 
 Tip: Type > to activate command mode 
 Type ? for help and tips 
